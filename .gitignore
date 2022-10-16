@@ -1,0 +1,12 @@
+# Folders #
+###########
+DATA/*
+screenshots/*
+info/*
+PreProcessing/*
+reports/*
+
+# Documents #
+#############
+*.csv
+*.parquet
