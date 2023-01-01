@@ -11,7 +11,5 @@ presentation/*
 #############
 *.csv
 *.parquet
-Task Lead Nomination.gsheet
 *.gsheet
-Task Lead Nomination.gsheet
-*.gsheet
+*.ini
